@@ -111,6 +111,14 @@ export default function SectionMen() {
 
   <div class="product-container">
       <a className="product-container-new"></a>
+      <img src="https://i.postimg.cc/5tNk159G/kampa-balam-grn.png"></img>
+      <h1 className="text-xl pl-4 font-semibold opacity-60">Kampa Balam Neon Green - Men</h1>
+      <p className="text-xl pl-4 opacity-60">Firm-Ground Football Boots</p>
+      <p className="text-xl pl-4 opacity-60 mb-2">$75.00</p>
+  </div>
+
+  <div class="product-container">
+      <a className="product-container-new"></a>
       <img src="https://cdn.shopify.com/s/files/1/0384/3676/5828/products/1000x500_BAL_NAN_TURF_01_499171dc-4916-466e-bfe6-28eeef2eb0a0.jpg?v=1592537173"></img>
       <h1 className="text-xl pl-4 font-semibold opacity-60">Kampa Balam Neon Green - Men</h1>
       <p className="text-xl pl-4 opacity-60">Turf Football Boots</p>
