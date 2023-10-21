@@ -116,14 +116,6 @@ export default function SectionMen() {
       <p className="text-xl pl-4 opacity-60">Firm-Ground Football Boots</p>
       <p className="text-xl pl-4 opacity-60 mb-2">$75.00</p>
   </div>
-
-  <div class="product-container">
-      <a className="product-container-new"></a>
-      <img src="https://cdn.shopify.com/s/files/1/0384/3676/5828/products/1000x500_BAL_NAN_TURF_01_499171dc-4916-466e-bfe6-28eeef2eb0a0.jpg?v=1592537173"></img>
-      <h1 className="text-xl pl-4 font-semibold opacity-60">Kampa Balam Neon Green - Men</h1>
-      <p className="text-xl pl-4 opacity-60">Turf Football Boots</p>
-      <p className="text-xl pl-4 opacity-60 mb-2">$55.00</p>
-  </div>
   
   <div class="product-container">
       <a className="product-container-new"></a>
@@ -139,20 +131,6 @@ export default function SectionMen() {
       <img src="https://cdn.shopify.com/s/files/1/0384/3676/5828/products/1000x500_COS_ARN_01_47565fed-dc86-4c43-a472-e9ffc3bd57f1.jpg?v=1592539650"></img>
       <h1 className="text-xl pl-4 font-semibold opacity-60">Kampa Cosmos Blue - Men</h1>
       <p className="text-xl pl-4 opacity-60">Firm-Ground Football Boots</p>
-      <p className="text-xl pl-4 opacity-60 mb-2">$65.00</p>
-  </div>
-
-  <div class="product-container">
-      <img src="https://cdn.shopify.com/s/files/1/0384/3676/5828/products/1000x500_COS_ARN_TURF_01_87f087a7-fb73-4fa8-824d-fedd42fee06b.jpg?v=1592538229"></img>
-      <h1 className="text-xl pl-4 font-semibold opacity-60">Kampa Cosmos Blue Turf - Men</h1>
-      <p className="text-xl pl-4 opacity-60">Turf Football Boots</p>
-      <p className="text-xl pl-4 opacity-60 mb-2">$55.00</p>
-  </div>
-
-  <div class="product-container">
-      <img src="https://cdn.shopify.com/s/files/1/0384/3676/5828/products/1000x500_COS_NNN_TURF_01_e643d0c4-3415-4686-8193-74b9419610bf.jpg?v=1592538923"></img>
-      <h1 className="text-xl pl-4 font-semibold opacity-60">Kampa Cosmos Neon Orange Turf - Men</h1>
-      <p className="text-xl pl-4 opacity-60">Turf Football Boots</p>
       <p className="text-xl pl-4 opacity-60 mb-2">$65.00</p>
   </div>
 
