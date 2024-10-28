@@ -101,7 +101,7 @@ export default function SectionMen() {
 
     <main className={styles.main}>
 
-      <img src="https://scontent.fyyz1-1.fna.fbcdn.net/v/t1.6435-9/83030637_3222022397814756_6641094070498230272_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=gb3O28tCZgcAX-Rh8vS&_nc_ht=scontent.fyyz1-1.fna&oh=00_AT8Zc1KYDnIzxxkW_LkL7CZkFJQpica93mCE8FMxCw4N2A&oe=61ED7721" className='pt-5 rounded-b-2xl' style={{width: '2000px', height: '580px', objectFit:'cover'}}></img>
+      <img src="https://cdn.shopify.com/s/files/1/0384/3676/5828/files/DSC_0044-Editar.jpg?v=1589157653" className='pt-5 rounded-b-2xl' style={{width: '2000px', height: '580px', objectFit:'cover'}}></img>
 
       <div className="flex place-self-start">
       <p className="pt-7 font-semibold text-4xl pb-6"> Men's Football Boots </p>
